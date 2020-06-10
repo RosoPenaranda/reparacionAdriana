@@ -1,0 +1,411 @@
+[05-Jun-2020 09:23:44 UTC] PHP Warning:  include(phpmailer/PHPMailer.php): failed to open stream: No such file or directory in /home/pka6gc26ht3z/public_html/contactform/contactform.php on line 9
+[05-Jun-2020 09:23:44 UTC] PHP Warning:  include(): Failed opening 'phpmailer/PHPMailer.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/pka6gc26ht3z/public_html/contactform/contactform.php on line 9
+[05-Jun-2020 09:23:44 UTC] PHP Warning:  include(phpmailer/SMTP.php): failed to open stream: No such file or directory in /home/pka6gc26ht3z/public_html/contactform/contactform.php on line 10
+[05-Jun-2020 09:23:44 UTC] PHP Warning:  include(): Failed opening 'phpmailer/SMTP.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/pka6gc26ht3z/public_html/contactform/contactform.php on line 10
+[05-Jun-2020 09:23:44 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/pka6gc26ht3z/public_html/contactform/contactform.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/contactform.php on line 13
+[05-Jun-2020 09:28:49 UTC] PHP Warning:  include(phpmailer/PHPMailer.php): failed to open stream: No such file or directory in /home/pka6gc26ht3z/public_html/contactform/contactform.php on line 9
+[05-Jun-2020 09:28:49 UTC] PHP Warning:  include(): Failed opening 'phpmailer/PHPMailer.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/pka6gc26ht3z/public_html/contactform/contactform.php on line 9
+[05-Jun-2020 09:28:49 UTC] PHP Warning:  include(phpmailer/SMTP.php): failed to open stream: No such file or directory in /home/pka6gc26ht3z/public_html/contactform/contactform.php on line 10
+[05-Jun-2020 09:28:49 UTC] PHP Warning:  include(): Failed opening 'phpmailer/SMTP.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/pka6gc26ht3z/public_html/contactform/contactform.php on line 10
+[05-Jun-2020 09:28:49 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/pka6gc26ht3z/public_html/contactform/contactform.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/contactform.php on line 13
+[05-Jun-2020 09:28:51 UTC] PHP Warning:  include(phpmailer/PHPMailer.php): failed to open stream: No such file or directory in /home/pka6gc26ht3z/public_html/contactform/contactform.php on line 9
+[05-Jun-2020 09:28:51 UTC] PHP Warning:  include(): Failed opening 'phpmailer/PHPMailer.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/pka6gc26ht3z/public_html/contactform/contactform.php on line 9
+[05-Jun-2020 09:28:51 UTC] PHP Warning:  include(phpmailer/SMTP.php): failed to open stream: No such file or directory in /home/pka6gc26ht3z/public_html/contactform/contactform.php on line 10
+[05-Jun-2020 09:28:51 UTC] PHP Warning:  include(): Failed opening 'phpmailer/SMTP.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/pka6gc26ht3z/public_html/contactform/contactform.php on line 10
+[05-Jun-2020 09:28:51 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/pka6gc26ht3z/public_html/contactform/contactform.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/contactform.php on line 13
+[05-Jun-2020 09:29:14 UTC] PHP Warning:  include(phpmailer/PHPMailer.php): failed to open stream: No such file or directory in /home/pka6gc26ht3z/public_html/contactform/contactform.php on line 9
+[05-Jun-2020 09:29:14 UTC] PHP Warning:  include(): Failed opening 'phpmailer/PHPMailer.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/pka6gc26ht3z/public_html/contactform/contactform.php on line 9
+[05-Jun-2020 09:29:14 UTC] PHP Warning:  include(phpmailer/SMTP.php): failed to open stream: No such file or directory in /home/pka6gc26ht3z/public_html/contactform/contactform.php on line 10
+[05-Jun-2020 09:29:14 UTC] PHP Warning:  include(): Failed opening 'phpmailer/SMTP.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/pka6gc26ht3z/public_html/contactform/contactform.php on line 10
+[05-Jun-2020 09:29:14 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/pka6gc26ht3z/public_html/contactform/contactform.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/contactform.php on line 13
+[05-Jun-2020 09:32:04 UTC] PHP Warning:  include(phpmailer/PHPMailer.php): failed to open stream: No such file or directory in /home/pka6gc26ht3z/public_html/contactform/contactform.php on line 9
+[05-Jun-2020 09:32:04 UTC] PHP Warning:  include(): Failed opening 'phpmailer/PHPMailer.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/pka6gc26ht3z/public_html/contactform/contactform.php on line 9
+[05-Jun-2020 09:32:04 UTC] PHP Warning:  include(phpmailer/SMTP.php): failed to open stream: No such file or directory in /home/pka6gc26ht3z/public_html/contactform/contactform.php on line 10
+[05-Jun-2020 09:32:04 UTC] PHP Warning:  include(): Failed opening 'phpmailer/SMTP.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/pka6gc26ht3z/public_html/contactform/contactform.php on line 10
+[05-Jun-2020 09:32:04 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/pka6gc26ht3z/public_html/contactform/contactform.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/contactform.php on line 13
+[05-Jun-2020 09:33:19 UTC] PHP Warning:  include(phpmailer/PHPMailer.php): failed to open stream: No such file or directory in /home/pka6gc26ht3z/public_html/contactform/contactform.php on line 9
+[05-Jun-2020 09:33:19 UTC] PHP Warning:  include(): Failed opening 'phpmailer/PHPMailer.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/pka6gc26ht3z/public_html/contactform/contactform.php on line 9
+[05-Jun-2020 09:33:19 UTC] PHP Warning:  include(phpmailer/SMTP.php): failed to open stream: No such file or directory in /home/pka6gc26ht3z/public_html/contactform/contactform.php on line 10
+[05-Jun-2020 09:33:19 UTC] PHP Warning:  include(): Failed opening 'phpmailer/SMTP.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/pka6gc26ht3z/public_html/contactform/contactform.php on line 10
+[05-Jun-2020 09:33:19 UTC] PHP Fatal error:  Uncaught Error: Class 'PHPMailer' not found in /home/pka6gc26ht3z/public_html/contactform/contactform.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/contactform.php on line 13
+[05-Jun-2020 09:34:04 UTC] PHP Fatal error:  Uncaught Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:1854
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#2 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#3 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 1854
+[05-Jun-2020 09:35:30 UTC] PHP Fatal error:  Uncaught Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:1854
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#2 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#3 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 1854
+[05-Jun-2020 09:35:34 UTC] PHP Fatal error:  Uncaught Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:1854
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#2 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#3 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 1854
+[05-Jun-2020 09:38:13 UTC] PHP Fatal error:  Uncaught Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:1854
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#2 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#3 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 1854
+[05-Jun-2020 09:40:52 UTC] PHP Fatal error:  Uncaught Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:1854
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#2 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#3 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 1854
+[05-Jun-2020 09:52:06 UTC] PHP Fatal error:  Uncaught Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:1854
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#2 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#3 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 1854
+[05-Jun-2020 09:53:59 UTC] PHP Fatal error:  Uncaught Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:1854
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#2 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#3 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 1854
+[05-Jun-2020 09:59:35 UTC] PHP Fatal error:  Uncaught Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:1854
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#2 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#3 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 1854
+[05-Jun-2020 10:00:33 UTC] PHP Fatal error:  Uncaught Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:1854
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#2 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#3 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 1854
+[05-Jun-2020 10:00:52 UTC] PHP Fatal error:  Uncaught Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:1854
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#2 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#3 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 1854
+[05-Jun-2020 10:00:58 UTC] PHP Fatal error:  Uncaught Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:1854
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#2 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#3 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 1854
+[05-Jun-2020 10:02:12 UTC] PHP Fatal error:  Uncaught Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:1854
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#2 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#3 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 1854
+[05-Jun-2020 10:02:18 UTC] PHP Fatal error:  Uncaught Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:1854
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#2 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#3 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 1854
+[05-Jun-2020 10:03:20 UTC] PHP Fatal error:  Uncaught Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:1854
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#2 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#3 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 1854
+[05-Jun-2020 10:03:56 UTC] PHP Fatal error:  Uncaught Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:1854
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#2 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#3 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 1854
+[05-Jun-2020 10:05:56 UTC] PHP Fatal error:  Uncaught Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:1854
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#2 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#3 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 1854
+[05-Jun-2020 10:06:56 UTC] PHP Fatal error:  Uncaught Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:1854
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#2 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#3 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 1854
+[05-Jun-2020 10:07:44 UTC] PHP Fatal error:  Uncaught Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:1854
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#2 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#3 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 1854
+[05-Jun-2020 10:08:11 UTC] PHP Fatal error:  Uncaught Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:1854
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#2 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#3 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 1854
+[05-Jun-2020 10:09:17 UTC] PHP Fatal error:  Uncaught Exception: SMTP Error: Could not connect to SMTP host. in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:2022
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1853): PHPMailer->smtpConnect(Array)
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#2 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#3 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#4 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 2022
+[05-Jun-2020 10:10:15 UTC] PHP Fatal error:  Uncaught Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:1854
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#2 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#3 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 1854
+[05-Jun-2020 10:10:33 UTC] PHP Fatal error:  Uncaught Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:1854
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#2 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#3 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 1854
+[05-Jun-2020 10:11:43 UTC] PHP Fatal error:  Uncaught Exception: SMTP Error: Could not connect to SMTP host. in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:2022
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1853): PHPMailer->smtpConnect(Array)
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#2 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#3 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#4 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 2022
+[05-Jun-2020 10:14:08 UTC] PHP Fatal error:  Uncaught Exception: The following From address failed: from@example.com : MAIL FROM command failed,authentication required
+,530,SMTP server error: MAIL FROM command failed Detail: authentication required
+ SMTP code: 530 in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:1864
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#2 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#3 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 1864
+[05-Jun-2020 10:14:39 UTC] PHP Fatal error:  Uncaught Exception: SMTP Error: Could not authenticate. in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:2033
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1853): PHPMailer->smtpConnect(Array)
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#2 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#3 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#4 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 2033
+[05-Jun-2020 10:17:40 UTC] PHP Fatal error:  Uncaught Exception: SMTP Error: Could not authenticate. in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:2033
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1853): PHPMailer->smtpConnect(Array)
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#2 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#3 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#4 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 2033
+[05-Jun-2020 10:19:21 UTC] PHP Fatal error:  Uncaught Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:1854
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#2 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#3 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 1854
+[05-Jun-2020 10:20:22 UTC] PHP Fatal error:  Uncaught Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:1854
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#2 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#3 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 1854
+[05-Jun-2020 10:22:48 UTC] PHP Fatal error:  Uncaught Exception: SMTP Error: Could not authenticate. in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:2033
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1853): PHPMailer->smtpConnect(Array)
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#2 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#3 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#4 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 2033
+[05-Jun-2020 10:22:55 UTC] PHP Fatal error:  Uncaught Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:1854
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#2 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#3 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 1854
+[05-Jun-2020 10:23:07 UTC] PHP Fatal error:  Uncaught Exception: SMTP Error: Could not authenticate. in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:2033
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1853): PHPMailer->smtpConnect(Array)
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#2 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#3 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#4 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 2033
+[05-Jun-2020 10:23:35 UTC] PHP Fatal error:  Uncaught Exception: SMTP Error: Could not authenticate. in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:2033
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1853): PHPMailer->smtpConnect(Array)
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#2 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#3 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#4 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 2033
+[05-Jun-2020 10:23:58 UTC] PHP Fatal error:  Uncaught Exception: SMTP Error: Could not authenticate. in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:2033
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1853): PHPMailer->smtpConnect(Array)
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#2 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#3 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#4 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 2033
+[05-Jun-2020 10:27:41 UTC] PHP Fatal error:  Uncaught Exception: SMTP Error: Could not authenticate. in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:2033
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1853): PHPMailer->smtpConnect(Array)
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#2 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#3 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#4 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 2033
+[05-Jun-2020 10:29:11 UTC] PHP Fatal error:  Uncaught Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:1854
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#2 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#3 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 1854
+[05-Jun-2020 10:31:51 UTC] PHP Fatal error:  Uncaught Exception: SMTP Error: Could not connect to SMTP host. in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:2022
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1853): PHPMailer->smtpConnect(Array)
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#2 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#3 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#4 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 2022
+[05-Jun-2020 10:32:32 UTC] PHP Fatal error:  Uncaught Exception: SMTP Error: Could not connect to SMTP host. in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:2022
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1853): PHPMailer->smtpConnect(Array)
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#2 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#3 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#4 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 2022
+[05-Jun-2020 10:35:16 UTC] PHP Fatal error:  Uncaught Exception: SMTP Error: Could not authenticate. in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:2033
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1853): PHPMailer->smtpConnect(Array)
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#2 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#3 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#4 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 2033
+[05-Jun-2020 10:35:53 UTC] PHP Fatal error:  Uncaught Exception: SMTP Error: Could not connect to SMTP host. in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:2022
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1853): PHPMailer->smtpConnect(Array)
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#2 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#3 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#4 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 2022
+[05-Jun-2020 10:38:16 UTC] PHP Fatal error:  Uncaught Exception: SMTP Error: Could not authenticate. in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:2033
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1853): PHPMailer->smtpConnect(Array)
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#2 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#3 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#4 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 2033
+[05-Jun-2020 10:38:53 UTC] PHP Fatal error:  Uncaught Exception: SMTP Error: Could not connect to SMTP host. in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:2022
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1853): PHPMailer->smtpConnect(Array)
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#2 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#3 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#4 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 2022
+[05-Jun-2020 10:39:03 UTC] PHP Fatal error:  Uncaught Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:1854
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#2 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#3 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 1854
+[05-Jun-2020 10:39:40 UTC] PHP Fatal error:  Uncaught Exception: SMTP Error: Could not connect to SMTP host. in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:2022
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1853): PHPMailer->smtpConnect(Array)
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#2 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#3 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#4 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 2022
+[05-Jun-2020 10:39:44 UTC] PHP Fatal error:  Uncaught Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:1854
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#2 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#3 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 1854
+[05-Jun-2020 10:40:53 UTC] PHP Fatal error:  Uncaught Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:1854
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#2 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#3 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 1854
+[05-Jun-2020 10:41:23 UTC] PHP Fatal error:  Uncaught Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:1854
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#2 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#3 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 1854
+[05-Jun-2020 10:41:35 UTC] PHP Fatal error:  Uncaught Exception: SMTP Error: Could not authenticate. in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:2033
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1853): PHPMailer->smtpConnect(Array)
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#2 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#3 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#4 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 2033
+[05-Jun-2020 10:44:41 UTC] PHP Fatal error:  Uncaught Exception: SMTP Error: Could not connect to SMTP host. in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:2022
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1853): PHPMailer->smtpConnect(Array)
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#2 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#3 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#4 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 2022
+[05-Jun-2020 10:48:14 UTC] PHP Fatal error:  Uncaught Exception: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php:1854
+Stack trace:
+#0 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1596): PHPMailer->smtpSend('Date: Fri, 5 Ju...', 'This is a multi...')
+#1 /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php(1432): PHPMailer->postSend()
+#2 /home/pka6gc26ht3z/public_html/contactform/contactform.php(61): PHPMailer->send()
+#3 {main}
+  thrown in /home/pka6gc26ht3z/public_html/contactform/phpmailer/PHPMailer.php on line 1854
